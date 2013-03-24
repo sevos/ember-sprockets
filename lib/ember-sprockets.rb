@@ -1,0 +1,2 @@
+module EmberSprockets
+end
